@@ -38,6 +38,7 @@ To run the notebook, install the following Python packages:
 * matplotlib
 * seaborn
 * scikit-learn (if applicable)
+* pyspark
 
 ## How to Use
 
